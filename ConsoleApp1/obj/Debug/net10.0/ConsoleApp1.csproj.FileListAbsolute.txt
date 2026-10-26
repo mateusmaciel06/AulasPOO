@@ -1,0 +1,15 @@
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mateusmaciel/Documents/GitHub/AULASPOO/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
